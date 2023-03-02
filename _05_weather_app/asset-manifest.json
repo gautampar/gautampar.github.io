@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c64628b7.css",
+    "main.js": "./static/js/main.d951980c.js",
+    "static/js/787.d9312eb8.chunk.js": "./static/js/787.d9312eb8.chunk.js",
+    "static/media/broken-clouds.jpg": "./static/media/broken-clouds.27c9f07f4d1840a78448.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/frost.jpg": "./static/media/frost.c0253984a609c5d766eb.jpg",
+    "static/media/overcast-clouds.jpg": "./static/media/overcast-clouds.7a64b5260cf58f82bf6d.jpg",
+    "static/media/haze.jpg": "./static/media/haze.f65a4ed611c59fe2474f.jpg",
+    "static/media/few-clouds.jpg": "./static/media/few-clouds.52d97c9e1393acc61784.jpg",
+    "static/media/scattered-clouds.jpg": "./static/media/scattered-clouds.1c918727fca1c2b14a9b.jpg",
+    "static/media/light-rain.jpg": "./static/media/light-rain.7938068e084fc99aec91.jpg",
+    "static/media/dust.jpg": "./static/media/dust.a4d68bd475f03498bbc0.jpg",
+    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "./static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/cloudy.jpg": "./static/media/cloudy.37ee55cb40ba69bab018.jpg",
+    "static/media/bootstrap-icons.woff2?": "./static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/mist.jpg": "./static/media/mist.2bde5c21d86061f0e942.jpg",
+    "static/media/clear-sky.jpg": "./static/media/clear-sky.c970ce02ba4e4db9e70f.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/rain_and_sleet_mix.svg": "./static/media/rain_and_sleet_mix.b41746433b591cafed84840a9276c860.svg",
+    "static/media/clear-day.svg": "./static/media/clear-day.86fd45a89ce8d9bc8c37905ca271c860.svg",
+    "static/media/prassure.svg": "./static/media/prassure.bda2ec3a1818a1c30769d864f11d403d.svg",
+    "static/media/wind.svg": "./static/media/wind.9fd00145210d815e9e86d2c1cecafb3f.svg",
+    "index.html": "./index.html",
+    "main.c64628b7.css.map": "./static/css/main.c64628b7.css.map",
+    "main.d951980c.js.map": "./static/js/main.d951980c.js.map",
+    "787.d9312eb8.chunk.js.map": "./static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c64628b7.css",
+    "static/js/main.d951980c.js"
+  ]
+}
